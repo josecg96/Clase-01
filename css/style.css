@@ -1,0 +1,8 @@
+body{
+    background: rgb(9,9,121);
+    background: linear-gradient(90deg, rgba(9,9,121,1) 0%, rgba(52,52,145,1) 13%, rgba(185,210,146,1) 50%, rgba(59,59,148,1) 87%, rgba(9,9,121,1) 100%);
+}
+*{
+    font-family: "Audiowide", sans-serif;
+    color:azure;
+}
